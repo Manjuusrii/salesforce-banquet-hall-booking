@@ -45,7 +45,7 @@ This project is a **Salesforce-based CRM application** designed to manage and st
 <img width="1275" height="678" alt="image" src="https://github.com/user-attachments/assets/f598ef9e-4cd5-4f62-bbed-54b760fa6b64" />
 
 
-👉 Add your demo video link here
+👉 Demo video link here
 https://drive.google.com/file/d/1bRdIWPZcxdeVV-rPSqIlBNI97ctkTZtN/view?usp=drivesdk
 
 ---
