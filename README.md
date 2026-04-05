@@ -156,7 +156,7 @@ Example Entities:
 
 ---
 
-## 👨‍💻 Team Members
-- Jagath Shree U – Team Lead  
-- Manjusri V – Member  
-- V Monicka Jaai – Member  
+## Author
+  
+- Manjusri V  
+
