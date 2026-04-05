@@ -17,6 +17,13 @@ It enables efficient handling of:
 
 ---
 
+## 🎥 Demo Video
+
+👉 Watch the project demo here:  
+https://drive.google.com/file/d/1z3c17GKkoNIPaJbOf-hA-0xZ60OO3reL/view?usp=sharing
+
+---
+
 ## 🎯 Key Features
 
 ### 🧾 1. Inquiry Management
@@ -128,15 +135,7 @@ Example Entities:
 
 ---
 
-## 📸 Screenshots
 
-(Add inside `/docs/screenshots/`)
-- Dashboard View  
-- Booking Page  
-- Flow Automation  
-- Reports  
-
----
 
 ## ⚡ Installation / Setup
 
@@ -156,6 +155,8 @@ Example Entities:
 - Chatbot for customer queries  
 
 ---
-#Author
-- Manjusri V
 
+## 👨‍💻 Team Members
+- Jagath Shree U – Team Lead  
+- Manjusri V – Member  
+- V Monicka Jaai – Member  
