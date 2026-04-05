@@ -1,63 +1,123 @@
-# 🏢 CRM Application for Banquet Hall Booking (Salesforce Project)
+📌 Banquet Hall CRM Application (Salesforce)
 
-##  Project Overview
+A complete Customer Relationship Management (CRM) solution built on Salesforce to streamline banquet hall booking operations, customer interactions, and event management.
 
-This project is a **Salesforce-based CRM application** designed to manage and streamline banquet hall bookings. It helps in organizing customer data, tracking bookings, managing availability, and automating business processes.
+🚀 Project Overview
 
----
+The Banquet Hall CRM application manages the entire lifecycle of event booking — from customer inquiry to event execution.
 
-##  Features
+It enables efficient handling of:
 
-* 📋 Customer & Booking Management
-* 🏛️ Banquet Hall Availability Tracking
-* 💰 Payment & Booking Details Management
-* 📊 Reports and Dashboard Insights
-* ⚙️ Automation using Validation Rules
+Customer inquiries
+Booking confirmations
+Event planning
+Resource allocation
+Reporting & analytics
+🎯 Key Features
+🧾 1. Inquiry Management
+Capture client requirements
+Store event details (date, guests, type)
+Track inquiry status
+📅 2. Booking System
+Check availability
+Confirm bookings
+Manage event schedules
+🪑 3. Event Planning
+Seating arrangements
+Catering selection
+Décor & AV requirements
+⚙️ 4. Automation (Flows)
+Auto-notifications
+Status updates
+Approval processes
+🛡️ 5. Data Validation
+Prevent invalid entries
+Ensure accurate booking data
+📊 6. Reports & Dashboards
+Revenue tracking
+Booking trends
+Customer insights
+🏗️ Architecture
 
----
+The system is built using:
 
-##  Technologies Used
+Custom Objects
+Apex Classes & Triggers
+Flow Builder
+Validation Rules
+Lightning App Builder
 
-* Salesforce CRM
-* Lightning App Builder
-* Custom Objects & Fields
-* Validation Rules
-* Page Layouts
-* Record Types
+📌 (Add your architecture diagram in /docs)
 
----
+🧩 Modules Implemented
+🔹 Salesforce Developer Setup
+Org configuration
+User roles & permissions
+🔹 Objects & Relationships
+Customer
+Event
+Booking
+Services
+🔹 Lightning App
+Custom UI for users
+Navigation setup
+🔹 Fields & Page Layouts
+Custom fields for event tracking
+Optimized UI for usability
+🔹 Record Types
+Wedding
+Corporate Event
+Birthday Party
+🔹 Validation Rules
+Date validation
+Guest limits
+Mandatory fields
+🔹 Flows
+Booking confirmation automation
+Email notifications
+🔹 Apex (if used)
+Business logic handling
+Trigger-based automation
+🔹 Reports & Dashboards
+Event analytics
+Revenue insights
+📂 Data Model
 
-## 📂 Modules Completed
+(Add ER Diagram in /docs)
 
-*  Salesforce Developer Account Setup
-*  Objects Creation
-*  Tabs Creation
-*  Lightning App Development
-*  Fields & Relationships
-*  Page Layout Design
-*  Record Types
-*  Validation Rules
+Example Entities:
 
----
+Customer
+Booking
+Event
+Services
+🛠️ Technologies Used
+Salesforce
+Apex
+SOQL
+Flow Builder
+Lightning App Builder
+📸 Screenshots
 
-##  Project Screenshots
-#account creation
-<img width="1275" height="678" alt="image" src="https://github.com/user-attachments/assets/f598ef9e-4cd5-4f62-bbed-54b760fa6b64" />
+(Add inside /docs/screenshots/)
 
+Dashboard View
+Booking Page
+Flow Automation
+Reports
+⚡ Installation / Setup
+Login to your Salesforce Developer Org
+Import metadata using:
+Change Sets OR
+Salesforce CLI
+Deploy package.xml
+Load sample data from /data/sample-data.csv
+📈 Future Enhancements
+Payment integration
+Mobile app support
+AI-based booking suggestions
+Chatbot for customer queries
 
-👉 Demo video link here
-https://drive.google.com/file/d/1bRdIWPZcxdeVV-rPSqIlBNI97ctkTZtN/view?usp=drivesdk
-
----
-
-## 📖 Learning Outcomes
-
-* Understood Salesforce CRM architecture
-* Gained hands-on experience with object modeling
-* Learned UI customization using Lightning
-* Implemented business logic using validation rules
-
----
 
 ##  Author
 
